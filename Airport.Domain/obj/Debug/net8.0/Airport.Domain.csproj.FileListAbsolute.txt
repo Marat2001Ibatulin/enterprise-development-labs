@@ -1,0 +1,11 @@
+C:\Users\Marat\source\repos\Airport\Airport.Domain\bin\Debug\net8.0\Airport.Domain.deps.json
+C:\Users\Marat\source\repos\Airport\Airport.Domain\bin\Debug\net8.0\Airport.Domain.dll
+C:\Users\Marat\source\repos\Airport\Airport.Domain\bin\Debug\net8.0\Airport.Domain.pdb
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\Airport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\Airport.Domain.AssemblyInfoInputs.cache
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\Airport.Domain.AssemblyInfo.cs
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\Airport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\Airport.Domain.dll
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\refint\Airport.Domain.dll
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\Airport.Domain.pdb
+C:\Users\Marat\source\repos\Airport\Airport.Domain\obj\Debug\net8.0\ref\Airport.Domain.dll
